@@ -1,6 +1,6 @@
 # Ask-It
 An android chatbot tells you jokes, and short stories, act as a
-calculator, translator etc. 
+calculator, translator etc. </br></br>
 **BrainShop API** is used to perform the task.
 ### Technology Involved: 
 Java, XML, Retrofit, GSON-Converter etc.
